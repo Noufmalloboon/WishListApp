@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1EABA4462E86A8F100F3C4B2 /* UIViewController+UX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EABA4452E86A8F100F3C4B2 /* UIViewController+UX.swift */; };
+		1EABA4482E86AD2200F3C4B2 /* Haptics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EABA4472E86AD2200F3C4B2 /* Haptics.swift */; };
 		1ED2356B2DBAB5090029C319 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED2356A2DBAB5090029C319 /* AppDelegate.swift */; };
 		1ED2356D2DBAB5090029C319 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED2356C2DBAB5090029C319 /* SceneDelegate.swift */; };
 		1ED2356F2DBAB5090029C319 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ED2356E2DBAB5090029C319 /* ViewController.swift */; };
@@ -38,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1EABA4452E86A8F100F3C4B2 /* UIViewController+UX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+UX.swift"; sourceTree = "<group>"; };
+		1EABA4472E86AD2200F3C4B2 /* Haptics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haptics.swift; sourceTree = "<group>"; };
 		1ED235672DBAB5090029C319 /* WishListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WishListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ED2356A2DBAB5090029C319 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1ED2356C2DBAB5090029C319 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -111,6 +115,8 @@
 				1ED2356A2DBAB5090029C319 /* AppDelegate.swift */,
 				1ED2356C2DBAB5090029C319 /* SceneDelegate.swift */,
 				1ED2356E2DBAB5090029C319 /* ViewController.swift */,
+				1EABA4452E86A8F100F3C4B2 /* UIViewController+UX.swift */,
+				1EABA4472E86AD2200F3C4B2 /* Haptics.swift */,
 				1ED235702DBAB5090029C319 /* Main.storyboard */,
 				1ED235732DBAB50A0029C319 /* Assets.xcassets */,
 				1ED235752DBAB50A0029C319 /* LaunchScreen.storyboard */,
@@ -331,6 +337,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1ED2356F2DBAB5090029C319 /* ViewController.swift in Sources */,
+				1EABA4462E86A8F100F3C4B2 /* UIViewController+UX.swift in Sources */,
+				1EABA4482E86AD2200F3C4B2 /* Haptics.swift in Sources */,
 				1ED2356B2DBAB5090029C319 /* AppDelegate.swift in Sources */,
 				1ED2356D2DBAB5090029C319 /* SceneDelegate.swift in Sources */,
 			);
